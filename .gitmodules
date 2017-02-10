@@ -1,0 +1,3 @@
+[submodule "src/redux-schema-form"]
+	path = src/redux-schema-form
+	url = https://github.com/tyrjo/redux-schema-form.git
